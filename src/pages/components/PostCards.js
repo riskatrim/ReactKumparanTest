@@ -1,8 +1,6 @@
 import React, { Component, useState, useEffect } from "react";
-import "./style.css";
 import "bootstrap/dist/css/bootstrap.css";
 import Details from "../Details.js";
-import axios from "axios";
 import { Link } from "react-router-dom";
 
 const PostCards = () => {
