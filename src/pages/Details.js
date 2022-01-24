@@ -54,7 +54,7 @@ const Details = () => {
 
   return (
     <>
-      <div className="card mb-4">
+      <div className="card mb-4 d-flex justify-content-center align-items-center">
         <img
           src={img.url}
           className="card-img-top"
